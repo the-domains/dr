@@ -1,0 +1,28 @@
+name: DR
+favicon: null
+layout_spectrum: 0.44685690361075103
+typography_spectrum: 0.36459598154760897
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.34172392496839166
+  lightness: 0.36184275709092617
+  saturation: 0.8453056507278234
+  rhythmicContrast: 0.10584397567436099
+purpose: []
